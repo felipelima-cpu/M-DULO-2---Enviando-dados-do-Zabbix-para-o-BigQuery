@@ -1,0 +1,1 @@
+# M-DULO-2---Enviando-dados-do-Zabbix-para-o-BigQuery
